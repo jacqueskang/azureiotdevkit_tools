@@ -768,7 +768,7 @@
             {
               "host": "i686-mingw32",
               "archiveFileName": "gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
-              "url": "https://iotdevkit-jkang.azureedge.net/packages/openocd-0.10.0-32.zip",
+              "url": "https://iotdevkit-jkang.azureedge.net/packages/gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
               "checksum": "MD5:dd46badbea382c884dd7079dcc5b4e0d",
               "size": "123456717"
             },
