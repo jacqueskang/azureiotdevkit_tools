@@ -815,10 +815,10 @@
             },
             {
               "host": "i686-mingw32",
-              "url": "https://iotdevkit-jkang.azureedge.net/toolchain/openocd-0.10.0-32.zip",
+              "url": "https://iotdevkit-jkang.azureedge.net/toolchain/xpack-openocd-0.10.0-15-win32-x32.zip",
               "archiveFileName": "openocd-0.10.0-32.zip",
-              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
-              "size": "7027793"
+              "checksum": "MD5:ad59544ad5acb278cf6149898a92712d",
+              "size": "3341623"
             },
             {
               "host": "i386-apple-darwin11",
