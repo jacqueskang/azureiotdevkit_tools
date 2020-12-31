@@ -768,9 +768,9 @@
             {
               "host": "i686-mingw32",
               "archiveFileName": "gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
-              "url": "https://launchpad.net/gcc-arm-embedded/5.0/5-2016-q3-update/+download/gcc-arm-none-eabi-5_4-2016q3-20160926-win32.zip",
+              "url": "https://iotdevkit-jkang.azureedge.net/packages/openocd-0.10.0-32.zip",
               "checksum": "MD5:dd46badbea382c884dd7079dcc5b4e0d",
-              "size": "103855187"
+              "size": "123456717"
             },
             {
               "host": "x86_64-apple-darwin",
@@ -815,10 +815,10 @@
             },
             {
               "host": "i686-mingw32",
-              "url": "https://azureboard.azureedge.net/toolchain/openocd-0.10.0-32.zip",
+              "url": "https://iotdevkit-jkang.azureedge.net/toolchain/openocd-0.10.0-32.zip",
               "archiveFileName": "openocd-0.10.0-32.zip",
-              "checksum": "MD5:83e1ed6c7d7558f09c1e39f9c168126c",
-              "size": "2751074"
+              "checksum": "MD5:07cc5eb8dd17df7d62156f1a2b128182",
+              "size": "7027793"
             },
             {
               "host": "i386-apple-darwin11",
